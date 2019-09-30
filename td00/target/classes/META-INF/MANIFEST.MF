@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Built-By: xuni17
-Build-Jdk: 11.0.3
-Main-Class: fr.dauphine.ja.xunicolas.td00.PrimeCollection
-Created-By: Maven Integration for Eclipse
-
