@@ -15,7 +15,7 @@ public class PrimeCollectionTest
      *
      * @param testName name of the test case
      */
-    public AppTest( String testName )
+    public PrimeCollectionTest( String testName )
     {
         super( testName );
     }
@@ -25,7 +25,7 @@ public class PrimeCollectionTest
      */
     public static Test suite()
     {
-        return new TestSuite( AppTest.class );
+        return new TestSuite( PrimeCollectionTest.class );
     }
 
     /**
@@ -34,5 +34,6 @@ public class PrimeCollectionTest
     public void testApp()
     {
         assertTrue( true );
+        // the assignement has to be true : yes 
     }
 }
